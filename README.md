@@ -8,4 +8,6 @@ You can build various mechanisms with green wires, pistons, and levers.
 There are also rails with minecarts, so you can build a convenient underground subway. 
 Fight zombies with a bow! (Zombies appear on the hard difficulty level.) 
 Store items in chests!
-You can build anything in this game—a regular house, a tower, or even pixel art. Good luck!
+You can build anything in this game—a regular house, a tower, or even pixel art.
+Press Releases and download newest .exe file!
+Good luck!
